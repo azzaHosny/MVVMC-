@@ -1,5 +1,5 @@
-# MVVMC-
-MVVMC Template
+# MVVMC
+
 I created MVVMC Xcode template.
 To use this template :
 First, we need to navigate to where Xcode stores its templates. In Finder, press Cmd+Shift+G to bring up the “Go to the folder…” prompt, and enter in this path: ~/Library/Developer/Xcode/Templates/.
